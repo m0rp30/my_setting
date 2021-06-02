@@ -1,0 +1,5 @@
+* Descrizione
+  Albero delle directory
+  - ~/.config/i3/
+  - ~/.resources/
+  - /opt/i3script
